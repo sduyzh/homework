@@ -1,0 +1,8 @@
+﻿  Block.cpp
+  Blockchain.cpp
+  sha256.cpp
+C:\Users\86185\Desktop\bitcoin\bitcoin\sha256.cpp(125,58): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  TestforBitcoin.cpp
+  user.cpp
+  正在生成代码...
+  bitcoin.vcxproj -> C:\Users\86185\Desktop\bitcoin\x64\Debug\bitcoin.exe
