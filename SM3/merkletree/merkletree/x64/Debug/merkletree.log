@@ -1,0 +1,9 @@
+﻿  源.cpp
+C:\Users\86185\Desktop\merkletree\merkletree\源.cpp(43,17): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86185\Desktop\merkletree\merkletree\源.cpp(51,17): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86185\Desktop\merkletree\merkletree\源.cpp(88,24): warning C4101: “tmp”: 未引用的局部变量
+C:\Users\86185\Desktop\merkletree\merkletree\源.cpp(138,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 8 拥有了类型“size_t”
+C:\Users\86185\Desktop\merkletree\merkletree\源.cpp(138,10): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\86185\Desktop\merkletree\merkletree\源.cpp(99): warning C4715: “Find_Last_Node”: 不是所有的控件路径都返回值
+C:\Users\86185\Desktop\merkletree\merkletree\源.cpp(259): warning C4715: “Creat_Merkle_Tree”: 不是所有的控件路径都返回值
+  merkletree.vcxproj -> C:\Users\86185\Desktop\merkletree\x64\Debug\merkletree.exe
